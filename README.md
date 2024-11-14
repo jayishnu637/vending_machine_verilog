@@ -20,3 +20,6 @@ State 2 (10 INR):
 Nothing inserted and transaction cancelled then change of 10 INR and transitioin to State 0.
 5 INR inserted: Product dispensed, return to State 0.
 10 INR inserted: Product dispensed, return to State 0 with 5 INR change.
+
+Result for inserting 5 INR thrice.
+![image](https://github.com/user-attachments/assets/b51e31ef-e72c-4695-a9ca-0ba284cbc021)
